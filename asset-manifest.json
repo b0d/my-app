@@ -1,0 +1,22 @@
+{
+  "main.css": "./static/css/main.9e9da1cf.chunk.css",
+  "main.js": "./static/js/main.2d897141.chunk.js",
+  "main.js.map": "./static/js/main.2d897141.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.3457cf7f.js",
+  "runtime~main.js.map": "./static/js/runtime~main.3457cf7f.js.map",
+  "static/js/2.27040c82.chunk.js": "./static/js/2.27040c82.chunk.js",
+  "static/js/2.27040c82.chunk.js.map": "./static/js/2.27040c82.chunk.js.map",
+  "static/js/3.c223ef96.chunk.js": "./static/js/3.c223ef96.chunk.js",
+  "static/js/3.c223ef96.chunk.js.map": "./static/js/3.c223ef96.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.d1d65cf3bf1e9047a21728c12b18a60a.js": "./precache-manifest.d1d65cf3bf1e9047a21728c12b18a60a.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/main.9e9da1cf.chunk.css.map": "./static/css/main.9e9da1cf.chunk.css.map",
+  "static/media/App.css": "./static/media/Comfortaa-Regular.c2488bfd.ttf",
+  "static/media/index.css": "./static/media/main.f44b0e90.jpg",
+  "static/media/decor.8d1f1aec.svg": "./static/media/decor.8d1f1aec.svg",
+  "static/media/l1.jpg": "./static/media/l1.918c8630.jpg",
+  "static/media/l2.jpg": "./static/media/l2.1d8e1111.jpg",
+  "static/media/l3.jpg": "./static/media/l3.25d9767e.jpg",
+  "static/media/logo.png": "./static/media/logo.ce84f25b.png"
+}
